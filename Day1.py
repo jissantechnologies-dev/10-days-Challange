@@ -5,7 +5,7 @@ print("Hello, World!   Geevee")
 print ("Welcome to the world of Python programming.")
 
 #Variables in Python
-a="Saravanannnn"
+a="Saravanan"
 b=15
 
 print ("The value of a is:", a)

@@ -1,4 +1,4 @@
-#Function to check if a number is prime
+#Function to add two numbers
 
 def add(a,b):
     return a + b
